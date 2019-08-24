@@ -13,7 +13,8 @@ A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the m
 
 # winnerCheck() function :
 
-```            //horrizontal check
+```         
+            //horrizontal check
             if ((A1.Text == A2.Text) && (A2.Text == A3.Text) && (!A1.Enabled))
                 winner_exist = true;
             else if ((B1.Text == B2.Text) && (B2.Text == B3.Text) && (!B1.Enabled))
