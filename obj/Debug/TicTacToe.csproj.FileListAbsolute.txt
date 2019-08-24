@@ -1,0 +1,17 @@
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form2.resources
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form3.resources
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form4.resources
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.application
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+C:\Users\Wutipat\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.application
