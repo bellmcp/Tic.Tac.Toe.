@@ -1,5 +1,5 @@
 # Tic.Tac.Toe.
-A revolutionary version for the classic Tic Tac Toe game.
+A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the most professional version of the classic Tic Tac Toe game. It offers hours of addictive fun, brain exercising and great user experience. 
 
 <p align="center">
   <img src="https://bellmcp.github.io/img/Projects_TicTacToe.jpg" />
