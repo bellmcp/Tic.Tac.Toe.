@@ -8,8 +8,8 @@ A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the m
 # What I Learned :
 
 * Developed a user interface within the Windows Forms App (.NET Framework) using ToolStrip, TextBox, Label & Button.
-* Implemented functinality to the UI: buttonClick, disableButtons, newGame, & resetCount.
-* Integrated Tic Tac Toe logic strategy to the winnerCheck function. (based on [Wikipedia's strategy](https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy))
+* Implemented functinality to the UI: `buttonClick`, `disableButtons`, `newGame`, & `resetCount`.
+* Integrated Tic Tac Toe logic strategy to the `winnerCheck` function. (based on [Wikipedia's strategy](https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy))
 
 # winnerCheck() function :
 
