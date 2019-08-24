@@ -5,6 +5,10 @@ A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the m
   <img src="https://bellmcp.github.io/img/Projects_TicTacToe.jpg" />
 </p>
 
+# Download :
+
+* [Download Project (.rar | 471 KB)](https://bellmcp.github.io/work/TicTacToe.rar)
+
 # What I Learned :
 
 * Developed a user interface within the Windows Forms App (.NET Framework) using ToolStrip, TextBox, Label & Button.
