@@ -8,7 +8,7 @@ A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the m
 # Download :
 
 * [Download Project (.rar | 471 KB)](https://bellmcp.github.io/work/TicTacToe.rar)
-* [Download Download .NET Framework 4.7.2 (Direct Link)](https://dotnet.microsoft.com/download/dotnet-framework/net472)
+* [Download .NET Framework 4.7.2 (Direct Link)](https://dotnet.microsoft.com/download/dotnet-framework/net472)
 
 # What I Learned :
 
