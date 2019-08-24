@@ -5,7 +5,7 @@ A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the m
   <img src="https://bellmcp.github.io/img/Projects_TicTacToe.jpg" />
 </p>
 
-# Download :
+# Resources :
 
 * [Download Project (.rar | 471 KB)](https://bellmcp.github.io/work/TicTacToe.rar)
 * [Download .NET Framework 4.7.2 (Direct Link)](https://dotnet.microsoft.com/download/dotnet-framework/net472)
