@@ -48,3 +48,4 @@ A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the m
 * Implement an unbeatable AI in single player mode.
 * Welcome screen to let player switch between single player and multiplayer mode.
 
+*Copyright © 2019 Wutipat Khamnuansin, All rights reserved.*
