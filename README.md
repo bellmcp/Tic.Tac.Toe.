@@ -11,7 +11,7 @@ A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the m
 * Implemented functinality to the UI: `buttonClick`, `disableButtons`, `newGame`, & `resetCount`.
 * Integrated Tic Tac Toe logic strategy to the `winnerCheck` function. (based on [Wikipedia's strategy](https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy))
 
-# winnerCheck() function :
+# winnerCheck() :
 
 ```         
             //horrizontal check
