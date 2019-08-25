@@ -1,5 +1,5 @@
 # Tic.Tac.Toe.
-A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the most professional version of the classic Tic Tac Toe game. It offers hours of addictive fun, brain exercising and great user experience. Developed using Visual Studio
+A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the most professional version of the classic Tic Tac Toe game. It offers hours of addictive fun, brain exercising and great user experience. Developed using Microsoft Visual Studio
 
 <p align="center">
   <img src="https://bellmcp.github.io/img/Projects_TicTacToe.jpg" />
