@@ -5,18 +5,18 @@ A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the m
   <img src="https://bellmcp.github.io/img/Projects_TicTacToe.jpg" />
 </p>
 
-# Resources :
+# Resources
 
 * [Download Project (.rar | 471 KB)](https://bellmcp.github.io/work/TicTacToe.rar)
 * [Download .NET Framework 4.7.2 (Direct Link)](https://dotnet.microsoft.com/download/dotnet-framework/net472)
 
-# What I Learned :
+# What I Learned
 
 * Developed a user interface within the Windows Forms App (.NET Framework) using ToolStrip, TextBox, Label & Button.
 * Implemented functinality to the UI: `buttonClick`, `disableButtons`, `newGame`, & `resetCount`.
 * Integrated Tic Tac Toe logic strategy to the `winnerCheck` function. (based on [Wikipedia's strategy](https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy))
 
-# winnerCheck() :
+# winnerCheck()
 
 ```         
             //horrizontal check
@@ -42,10 +42,10 @@ A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the m
                 winner_exist = true;
 ```
 
-# Future ideas include :
+# Future Ideas Include
 
 * Add an ability to have the X and O on the board be different colors.
 * Implement an unbeatable AI in single player mode.
 * Welcome screen to let player switch between single player and multiplayer mode.
 
-`Copyright © 2018 Wutipat Khamnuansin, All rights reserved.`
+> Copyright © 2018 Wutipat Khamnuansin, All rights reserved.
