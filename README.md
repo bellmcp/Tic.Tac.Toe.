@@ -52,7 +52,7 @@ A revolutionary version for the classic Tic Tac Toe game. Tic. Tac. Toe is the m
 
 ### Source Code License
 
-Licensed under [The MIT License](https://github.com/wisn/knights-tour/blob/master/LICENSE). You could use the source code for whatever you want as long as the LICENSE file or the license header in the source code still there.
+Licensed under [The MIT License](https://github.com/bellmcp/Tic.Tac.Toe./blob/master/LICENSE). You could use the source code for whatever you want as long as the LICENSE file or the license header in the source code still there.
 
 ### Documentation License
 
